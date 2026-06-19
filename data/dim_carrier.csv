@@ -1,0 +1,501 @@
+carrier_id,carrier_name,carrier_tier,carrier_type,fleet_size,safety_score,home_region
+1,Carrier_1,Standard,Reefer,487,78.31,West
+2,Carrier_2,Standard,Reefer,220,79.15,Northeast
+3,Carrier_3,Standard,Dry Van,65,79.22,Southwest
+4,Carrier_4,Standard,Flatbed,945,75.57,West
+5,Carrier_5,Standard,Dry Van,765,79.41,Northeast
+6,Carrier_6,Standard,Dry Van,172,87.29,Southwest
+7,Carrier_7,Standard,Flatbed,92,87.77,South
+8,Carrier_8,Standard,Dry Van,146,76.53,Midwest
+9,Carrier_9,Standard,Reefer,389,81.41,Northeast
+10,Carrier_10,Standard,Dry Van,815,80.34,Northeast
+11,Carrier_11,Standard,Reefer,176,81.85,South
+12,Carrier_12,High-Risk,Reefer,822,67.77,Midwest
+13,Carrier_13,Standard,Reefer,21,75.28,Midwest
+14,Carrier_14,Standard,Dry Van,743,86.79,Southwest
+15,Carrier_15,Preferred,Reefer,296,99.74,Northeast
+16,Carrier_16,Standard,Dry Van,961,84.15,West
+17,Carrier_17,Standard,Flatbed,486,84.25,Northeast
+18,Carrier_18,Standard,Dry Van,285,82.39,South
+19,Carrier_19,Standard,Dry Van,258,79.68,Northeast
+20,Carrier_20,Standard,Flatbed,830,77.09,Northeast
+21,Carrier_21,Standard,Dry Van,414,83.18,Midwest
+22,Carrier_22,Preferred,Dry Van,364,90.45,Southwest
+23,Carrier_23,Standard,Reefer,740,86.54,West
+24,Carrier_24,Standard,Dry Van,546,80.89,Southwest
+25,Carrier_25,High-Risk,Dry Van,670,65.81,Midwest
+26,Carrier_26,Standard,Dry Van,456,79.58,Northeast
+27,Carrier_27,Standard,Dry Van,82,88.57,South
+28,Carrier_28,Standard,Dry Van,25,77.45,Southwest
+29,Carrier_29,Standard,Dry Van,58,77.12,Northeast
+30,Carrier_30,Standard,Dry Van,582,77.32,Northeast
+31,Carrier_31,Standard,Dry Van,523,84.22,Southwest
+32,Carrier_32,High-Risk,Dry Van,752,73.89,Northeast
+33,Carrier_33,Standard,Reefer,896,78.3,Southwest
+34,Carrier_34,Standard,Reefer,191,87.68,West
+35,Carrier_35,High-Risk,Dry Van,958,63.9,West
+36,Carrier_36,Standard,Dry Van,933,84.07,Midwest
+37,Carrier_37,Preferred,Flatbed,623,90.4,Northeast
+38,Carrier_38,Standard,Dry Van,539,81.94,Midwest
+39,Carrier_39,Standard,Dry Van,193,84.16,Southwest
+40,Carrier_40,Standard,Dry Van,194,82.51,Southwest
+41,Carrier_41,High-Risk,Dry Van,38,63.33,Midwest
+42,Carrier_42,Standard,Reefer,653,86.6,Southwest
+43,Carrier_43,Standard,Flatbed,444,88.58,West
+44,Carrier_44,Standard,Flatbed,208,81.43,Northeast
+45,Carrier_45,Standard,Dry Van,151,83.9,West
+46,Carrier_46,Standard,Dry Van,82,86.07,West
+47,Carrier_47,Standard,Dry Van,648,78.38,Midwest
+48,Carrier_48,Standard,Dry Van,691,87.1,West
+49,Carrier_49,Preferred,Dry Van,639,92.8,Southwest
+50,Carrier_50,Standard,Reefer,128,85.86,Midwest
+51,Carrier_51,Standard,Dry Van,60,76.57,South
+52,Carrier_52,Standard,Flatbed,124,79.04,Southwest
+53,Carrier_53,High-Risk,Dry Van,756,67.47,Southwest
+54,Carrier_54,Standard,Dry Van,745,82.35,West
+55,Carrier_55,Standard,Flatbed,308,86.91,West
+56,Carrier_56,Preferred,Reefer,74,99.96,Northeast
+57,Carrier_57,High-Risk,Dry Van,333,61.5,Midwest
+58,Carrier_58,High-Risk,Dry Van,813,63.8,Northeast
+59,Carrier_59,Standard,Dry Van,160,80.01,Midwest
+60,Carrier_60,Standard,Dry Van,800,81.7,Southwest
+61,Carrier_61,Standard,Dry Van,474,81.91,South
+62,Carrier_62,Standard,Dry Van,158,86.99,Southwest
+63,Carrier_63,Standard,Reefer,935,85.79,Northeast
+64,Carrier_64,High-Risk,Dry Van,528,60.26,Northeast
+65,Carrier_65,Standard,Reefer,678,81.37,Southwest
+66,Carrier_66,Standard,Reefer,114,83.65,Northeast
+67,Carrier_67,High-Risk,Dry Van,384,66.45,West
+68,Carrier_68,Standard,Dry Van,639,76.83,West
+69,Carrier_69,Standard,Dry Van,652,80.56,South
+70,Carrier_70,Standard,Reefer,81,80.76,Northeast
+71,Carrier_71,Standard,Reefer,612,77.63,South
+72,Carrier_72,High-Risk,Reefer,945,70.59,Northeast
+73,Carrier_73,Standard,Dry Van,790,79.5,West
+74,Carrier_74,Standard,Dry Van,223,83.25,Southwest
+75,Carrier_75,Standard,Dry Van,914,82.22,Southwest
+76,Carrier_76,Standard,Dry Van,689,87.28,Southwest
+77,Carrier_77,High-Risk,Reefer,75,61.71,West
+78,Carrier_78,Preferred,Dry Van,145,91.14,Southwest
+79,Carrier_79,Standard,Dry Van,922,79.2,West
+80,Carrier_80,Standard,Dry Van,225,81.04,West
+81,Carrier_81,Standard,Dry Van,114,79.18,Southwest
+82,Carrier_82,Standard,Reefer,461,85.68,South
+83,Carrier_83,High-Risk,Dry Van,535,63.43,Midwest
+84,Carrier_84,Standard,Flatbed,581,76.19,Southwest
+85,Carrier_85,Standard,Reefer,665,80.79,South
+86,Carrier_86,Standard,Flatbed,998,85.83,South
+87,Carrier_87,Standard,Reefer,764,86.91,Northeast
+88,Carrier_88,High-Risk,Reefer,45,70.27,South
+89,Carrier_89,Preferred,Reefer,106,95.58,Midwest
+90,Carrier_90,Standard,Dry Van,20,85.14,Southwest
+91,Carrier_91,Standard,Dry Van,407,84.54,Northeast
+92,Carrier_92,Standard,Dry Van,363,78.28,West
+93,Carrier_93,Standard,Dry Van,934,82.71,West
+94,Carrier_94,High-Risk,Dry Van,378,70.79,Southwest
+95,Carrier_95,Preferred,Flatbed,50,93.17,West
+96,Carrier_96,Standard,Dry Van,886,84.16,Northeast
+97,Carrier_97,Standard,Dry Van,275,81.74,Midwest
+98,Carrier_98,High-Risk,Reefer,914,67.04,Southwest
+99,Carrier_99,Standard,Dry Van,778,76.26,Southwest
+100,Carrier_100,Standard,Flatbed,882,84.33,West
+101,Carrier_101,High-Risk,Dry Van,823,72.12,Southwest
+102,Carrier_102,Standard,Flatbed,160,76.98,West
+103,Carrier_103,Standard,Reefer,633,80.13,Northeast
+104,Carrier_104,Preferred,Dry Van,423,90.49,Southwest
+105,Carrier_105,Standard,Dry Van,636,75.41,Northeast
+106,Carrier_106,Standard,Dry Van,750,88.86,South
+107,Carrier_107,Standard,Dry Van,510,81.91,South
+108,Carrier_108,Preferred,Dry Van,326,93.56,West
+109,Carrier_109,Preferred,Flatbed,918,92.75,Northeast
+110,Carrier_110,Standard,Dry Van,669,88.72,West
+111,Carrier_111,Standard,Reefer,887,78.53,Southwest
+112,Carrier_112,Standard,Dry Van,252,85.16,West
+113,Carrier_113,Standard,Flatbed,841,78.97,South
+114,Carrier_114,Standard,Dry Van,336,75.99,Southwest
+115,Carrier_115,Standard,Dry Van,471,84.57,South
+116,Carrier_116,Standard,Dry Van,863,75.02,West
+117,Carrier_117,Standard,Dry Van,367,84.46,Midwest
+118,Carrier_118,Standard,Reefer,265,78.51,Northeast
+119,Carrier_119,Standard,Dry Van,917,85.45,Northeast
+120,Carrier_120,Standard,Dry Van,965,85.78,Northeast
+121,Carrier_121,Standard,Dry Van,324,85.14,Southwest
+122,Carrier_122,Standard,Reefer,320,75.34,Southwest
+123,Carrier_123,Standard,Dry Van,243,84.85,Midwest
+124,Carrier_124,Standard,Dry Van,43,88.86,Southwest
+125,Carrier_125,Standard,Dry Van,561,78.4,Northeast
+126,Carrier_126,High-Risk,Dry Van,269,63.84,Southwest
+127,Carrier_127,Standard,Dry Van,852,86.39,South
+128,Carrier_128,Standard,Flatbed,187,77.25,Northeast
+129,Carrier_129,Standard,Dry Van,642,84.25,West
+130,Carrier_130,Standard,Reefer,516,85.57,South
+131,Carrier_131,Standard,Dry Van,619,75.52,South
+132,Carrier_132,Standard,Dry Van,130,82.75,West
+133,Carrier_133,High-Risk,Dry Van,477,68.06,South
+134,Carrier_134,Standard,Dry Van,633,79.25,West
+135,Carrier_135,Preferred,Dry Van,354,98.76,Northeast
+136,Carrier_136,Standard,Dry Van,877,77.28,Northeast
+137,Carrier_137,High-Risk,Dry Van,538,65.1,South
+138,Carrier_138,Standard,Flatbed,375,86.88,West
+139,Carrier_139,Standard,Dry Van,50,77.67,South
+140,Carrier_140,Standard,Dry Van,185,86.5,Northeast
+141,Carrier_141,Standard,Dry Van,487,76.11,West
+142,Carrier_142,Standard,Dry Van,412,81.85,Midwest
+143,Carrier_143,Standard,Reefer,874,76.05,Midwest
+144,Carrier_144,Standard,Dry Van,790,84.49,South
+145,Carrier_145,Standard,Dry Van,175,86.07,Northeast
+146,Carrier_146,Standard,Dry Van,599,86.9,Northeast
+147,Carrier_147,Standard,Dry Van,465,88.74,West
+148,Carrier_148,High-Risk,Flatbed,119,69.41,Northeast
+149,Carrier_149,High-Risk,Dry Van,672,70.77,South
+150,Carrier_150,Standard,Reefer,546,82.08,Southwest
+151,Carrier_151,Standard,Dry Van,105,87.78,South
+152,Carrier_152,Standard,Flatbed,478,84.01,West
+153,Carrier_153,Standard,Dry Van,737,87.37,South
+154,Carrier_154,Standard,Dry Van,340,78.3,Southwest
+155,Carrier_155,Standard,Reefer,369,81.95,Southwest
+156,Carrier_156,Standard,Dry Van,127,85.22,Midwest
+157,Carrier_157,Standard,Dry Van,220,77.84,West
+158,Carrier_158,High-Risk,Flatbed,981,62.96,Midwest
+159,Carrier_159,Preferred,Dry Van,628,99.78,Southwest
+160,Carrier_160,High-Risk,Reefer,192,66.08,South
+161,Carrier_161,Standard,Reefer,493,77.55,Southwest
+162,Carrier_162,Standard,Reefer,208,79.64,West
+163,Carrier_163,High-Risk,Flatbed,453,65.56,West
+164,Carrier_164,High-Risk,Dry Van,162,68.72,South
+165,Carrier_165,High-Risk,Dry Van,626,72.92,Southwest
+166,Carrier_166,Preferred,Dry Van,578,99.87,West
+167,Carrier_167,Standard,Reefer,640,84.12,Southwest
+168,Carrier_168,Standard,Reefer,454,84.8,Southwest
+169,Carrier_169,High-Risk,Dry Van,300,64.51,Northeast
+170,Carrier_170,Standard,Dry Van,264,87.0,Southwest
+171,Carrier_171,Standard,Dry Van,230,78.05,Southwest
+172,Carrier_172,Standard,Dry Van,440,76.49,South
+173,Carrier_173,Standard,Reefer,462,88.63,Southwest
+174,Carrier_174,Preferred,Dry Van,680,98.64,Midwest
+175,Carrier_175,Standard,Reefer,71,79.25,South
+176,Carrier_176,High-Risk,Reefer,296,69.45,South
+177,Carrier_177,Standard,Flatbed,855,81.54,South
+178,Carrier_178,Standard,Dry Van,916,79.52,Northeast
+179,Carrier_179,Standard,Flatbed,932,79.01,West
+180,Carrier_180,Standard,Reefer,320,76.9,West
+181,Carrier_181,Standard,Reefer,154,82.69,West
+182,Carrier_182,High-Risk,Dry Van,214,66.25,Midwest
+183,Carrier_183,Preferred,Dry Van,149,95.12,South
+184,Carrier_184,Standard,Reefer,955,78.02,West
+185,Carrier_185,Standard,Dry Van,885,88.14,Southwest
+186,Carrier_186,High-Risk,Dry Van,814,68.94,Northeast
+187,Carrier_187,Standard,Dry Van,735,87.59,South
+188,Carrier_188,High-Risk,Dry Van,356,61.53,Southwest
+189,Carrier_189,High-Risk,Dry Van,486,68.72,Southwest
+190,Carrier_190,Standard,Dry Van,844,86.89,Southwest
+191,Carrier_191,High-Risk,Dry Van,818,64.63,Northeast
+192,Carrier_192,Standard,Flatbed,528,77.73,Midwest
+193,Carrier_193,Standard,Flatbed,840,78.71,Northeast
+194,Carrier_194,Standard,Dry Van,359,78.82,Southwest
+195,Carrier_195,Standard,Dry Van,425,81.26,Midwest
+196,Carrier_196,Standard,Dry Van,842,79.56,South
+197,Carrier_197,Preferred,Dry Van,388,92.71,Northeast
+198,Carrier_198,Standard,Flatbed,757,84.08,West
+199,Carrier_199,Standard,Dry Van,464,75.74,Southwest
+200,Carrier_200,Standard,Dry Van,311,79.77,Southwest
+201,Carrier_201,High-Risk,Dry Van,234,69.66,Southwest
+202,Carrier_202,Preferred,Dry Van,614,91.76,Southwest
+203,Carrier_203,Standard,Reefer,490,78.09,West
+204,Carrier_204,Standard,Reefer,382,77.81,Southwest
+205,Carrier_205,Standard,Dry Van,748,75.01,Southwest
+206,Carrier_206,High-Risk,Dry Van,21,66.63,Midwest
+207,Carrier_207,High-Risk,Flatbed,110,60.55,West
+208,Carrier_208,High-Risk,Dry Van,962,63.82,Southwest
+209,Carrier_209,High-Risk,Reefer,670,73.93,Northeast
+210,Carrier_210,Standard,Flatbed,558,87.86,West
+211,Carrier_211,Standard,Dry Van,34,78.01,South
+212,Carrier_212,Standard,Flatbed,606,79.34,Northeast
+213,Carrier_213,Standard,Dry Van,446,81.49,Northeast
+214,Carrier_214,Preferred,Reefer,607,98.44,Northeast
+215,Carrier_215,Standard,Dry Van,60,86.24,Southwest
+216,Carrier_216,Standard,Dry Van,559,76.77,West
+217,Carrier_217,Standard,Dry Van,586,76.74,Northeast
+218,Carrier_218,Standard,Dry Van,304,80.83,West
+219,Carrier_219,High-Risk,Dry Van,73,72.18,West
+220,Carrier_220,High-Risk,Dry Van,972,72.35,Midwest
+221,Carrier_221,Standard,Dry Van,715,76.5,West
+222,Carrier_222,High-Risk,Dry Van,629,68.04,Southwest
+223,Carrier_223,High-Risk,Dry Van,771,62.18,Midwest
+224,Carrier_224,Standard,Flatbed,677,84.61,West
+225,Carrier_225,High-Risk,Flatbed,151,72.83,Midwest
+226,Carrier_226,Standard,Dry Van,465,81.37,South
+227,Carrier_227,Standard,Dry Van,890,76.16,Southwest
+228,Carrier_228,Standard,Reefer,302,83.11,Midwest
+229,Carrier_229,Standard,Reefer,972,80.72,West
+230,Carrier_230,Standard,Dry Van,83,86.35,West
+231,Carrier_231,Preferred,Reefer,344,93.4,West
+232,Carrier_232,Standard,Dry Van,363,87.25,West
+233,Carrier_233,Standard,Dry Van,625,78.83,West
+234,Carrier_234,High-Risk,Reefer,192,62.21,Midwest
+235,Carrier_235,Standard,Reefer,244,79.29,West
+236,Carrier_236,Standard,Reefer,668,75.49,Midwest
+237,Carrier_237,Standard,Dry Van,298,78.94,South
+238,Carrier_238,Standard,Dry Van,881,84.24,West
+239,Carrier_239,Standard,Dry Van,872,76.99,Southwest
+240,Carrier_240,Standard,Dry Van,316,76.56,West
+241,Carrier_241,Standard,Dry Van,568,76.85,West
+242,Carrier_242,High-Risk,Dry Van,346,61.09,Southwest
+243,Carrier_243,Preferred,Dry Van,357,98.75,South
+244,Carrier_244,Standard,Reefer,676,88.22,Northeast
+245,Carrier_245,Standard,Dry Van,307,75.65,South
+246,Carrier_246,High-Risk,Dry Van,166,70.64,West
+247,Carrier_247,High-Risk,Reefer,273,70.32,Southwest
+248,Carrier_248,Preferred,Dry Van,930,99.97,Midwest
+249,Carrier_249,Standard,Flatbed,274,79.87,West
+250,Carrier_250,High-Risk,Dry Van,376,64.0,Northeast
+251,Carrier_251,Standard,Dry Van,636,81.34,West
+252,Carrier_252,Standard,Flatbed,119,86.99,West
+253,Carrier_253,Standard,Dry Van,283,85.2,Midwest
+254,Carrier_254,Standard,Reefer,191,81.6,West
+255,Carrier_255,Standard,Reefer,925,78.42,Midwest
+256,Carrier_256,Standard,Dry Van,934,85.18,Midwest
+257,Carrier_257,Standard,Reefer,760,86.96,West
+258,Carrier_258,Preferred,Flatbed,262,94.0,West
+259,Carrier_259,Standard,Flatbed,624,84.36,South
+260,Carrier_260,Standard,Dry Van,669,80.6,South
+261,Carrier_261,Standard,Dry Van,871,81.7,Midwest
+262,Carrier_262,Standard,Reefer,173,82.35,South
+263,Carrier_263,High-Risk,Dry Van,741,70.86,South
+264,Carrier_264,Standard,Dry Van,210,88.69,South
+265,Carrier_265,Standard,Dry Van,577,81.22,South
+266,Carrier_266,High-Risk,Dry Van,881,64.79,Midwest
+267,Carrier_267,Standard,Dry Van,80,80.23,Midwest
+268,Carrier_268,Standard,Dry Van,165,76.87,West
+269,Carrier_269,Standard,Dry Van,816,79.16,South
+270,Carrier_270,High-Risk,Dry Van,38,61.21,Southwest
+271,Carrier_271,Standard,Flatbed,691,80.99,Midwest
+272,Carrier_272,Standard,Dry Van,511,77.34,West
+273,Carrier_273,Standard,Dry Van,359,79.85,Northeast
+274,Carrier_274,High-Risk,Dry Van,865,71.11,Northeast
+275,Carrier_275,Standard,Dry Van,851,78.44,Midwest
+276,Carrier_276,Standard,Flatbed,339,83.57,South
+277,Carrier_277,Standard,Flatbed,24,87.62,Midwest
+278,Carrier_278,High-Risk,Dry Van,145,67.94,Northeast
+279,Carrier_279,Standard,Dry Van,125,77.71,Midwest
+280,Carrier_280,High-Risk,Dry Van,982,64.83,West
+281,Carrier_281,Standard,Dry Van,604,83.27,West
+282,Carrier_282,Standard,Dry Van,683,82.09,South
+283,Carrier_283,Standard,Dry Van,246,77.08,South
+284,Carrier_284,Standard,Dry Van,853,81.26,Midwest
+285,Carrier_285,Standard,Dry Van,728,82.6,Midwest
+286,Carrier_286,Standard,Dry Van,757,78.74,West
+287,Carrier_287,High-Risk,Dry Van,478,68.57,South
+288,Carrier_288,High-Risk,Dry Van,704,60.98,West
+289,Carrier_289,Standard,Dry Van,553,79.71,Southwest
+290,Carrier_290,Preferred,Dry Van,396,98.04,South
+291,Carrier_291,High-Risk,Dry Van,602,63.63,Southwest
+292,Carrier_292,Preferred,Dry Van,337,96.05,South
+293,Carrier_293,Standard,Dry Van,953,80.74,South
+294,Carrier_294,High-Risk,Reefer,722,64.43,West
+295,Carrier_295,Standard,Flatbed,744,87.83,West
+296,Carrier_296,Standard,Dry Van,722,79.81,Midwest
+297,Carrier_297,Standard,Dry Van,459,78.31,South
+298,Carrier_298,Standard,Reefer,951,87.73,Northeast
+299,Carrier_299,Preferred,Reefer,223,97.46,Southwest
+300,Carrier_300,High-Risk,Dry Van,577,69.55,Southwest
+301,Carrier_301,Standard,Dry Van,88,75.69,Southwest
+302,Carrier_302,Standard,Dry Van,308,76.84,Midwest
+303,Carrier_303,Preferred,Dry Van,583,96.38,Southwest
+304,Carrier_304,Standard,Dry Van,499,77.93,Midwest
+305,Carrier_305,Standard,Dry Van,942,78.16,Northeast
+306,Carrier_306,Preferred,Dry Van,621,97.79,Northeast
+307,Carrier_307,High-Risk,Dry Van,423,64.0,South
+308,Carrier_308,Standard,Dry Van,438,76.0,South
+309,Carrier_309,Standard,Reefer,619,75.51,Southwest
+310,Carrier_310,Standard,Dry Van,795,81.2,South
+311,Carrier_311,High-Risk,Dry Van,291,68.64,West
+312,Carrier_312,Standard,Dry Van,592,87.16,South
+313,Carrier_313,Preferred,Reefer,583,91.11,West
+314,Carrier_314,Standard,Dry Van,29,77.75,Midwest
+315,Carrier_315,Standard,Dry Van,914,82.42,Northeast
+316,Carrier_316,Standard,Dry Van,578,80.1,Midwest
+317,Carrier_317,Standard,Reefer,257,81.76,Northeast
+318,Carrier_318,Standard,Reefer,640,87.94,Southwest
+319,Carrier_319,High-Risk,Flatbed,684,67.63,West
+320,Carrier_320,High-Risk,Reefer,916,65.81,Southwest
+321,Carrier_321,Standard,Dry Van,53,88.85,Southwest
+322,Carrier_322,Standard,Dry Van,425,75.91,South
+323,Carrier_323,Standard,Dry Van,196,88.05,West
+324,Carrier_324,Standard,Reefer,582,82.02,Northeast
+325,Carrier_325,Preferred,Dry Van,511,95.04,Southwest
+326,Carrier_326,Standard,Dry Van,485,87.91,West
+327,Carrier_327,High-Risk,Flatbed,982,67.1,West
+328,Carrier_328,Standard,Dry Van,541,81.14,Southwest
+329,Carrier_329,Standard,Dry Van,422,78.81,Southwest
+330,Carrier_330,Standard,Dry Van,85,84.22,Southwest
+331,Carrier_331,Standard,Flatbed,303,82.98,Northeast
+332,Carrier_332,Standard,Flatbed,899,78.0,Northeast
+333,Carrier_333,Standard,Dry Van,462,84.93,Southwest
+334,Carrier_334,Standard,Flatbed,912,84.02,South
+335,Carrier_335,Standard,Flatbed,541,80.56,Midwest
+336,Carrier_336,High-Risk,Reefer,557,60.06,Northeast
+337,Carrier_337,Standard,Flatbed,441,81.25,West
+338,Carrier_338,Standard,Dry Van,565,75.08,Southwest
+339,Carrier_339,Standard,Reefer,85,76.05,Southwest
+340,Carrier_340,Standard,Dry Van,76,81.03,Midwest
+341,Carrier_341,High-Risk,Reefer,486,61.15,West
+342,Carrier_342,Preferred,Dry Van,605,92.76,Midwest
+343,Carrier_343,Standard,Reefer,559,84.18,Midwest
+344,Carrier_344,Standard,Flatbed,440,79.32,Midwest
+345,Carrier_345,Preferred,Dry Van,308,99.98,Southwest
+346,Carrier_346,High-Risk,Flatbed,714,72.83,South
+347,Carrier_347,High-Risk,Dry Van,612,68.19,Midwest
+348,Carrier_348,Standard,Dry Van,66,88.54,West
+349,Carrier_349,Standard,Dry Van,463,87.15,Midwest
+350,Carrier_350,High-Risk,Reefer,716,64.46,Northeast
+351,Carrier_351,Standard,Dry Van,788,85.49,South
+352,Carrier_352,Standard,Dry Van,301,76.92,West
+353,Carrier_353,High-Risk,Reefer,926,69.58,West
+354,Carrier_354,Preferred,Dry Van,658,94.91,West
+355,Carrier_355,Standard,Dry Van,448,75.24,Southwest
+356,Carrier_356,Standard,Flatbed,634,78.84,West
+357,Carrier_357,High-Risk,Reefer,874,73.38,Midwest
+358,Carrier_358,Preferred,Reefer,242,93.16,South
+359,Carrier_359,High-Risk,Dry Van,167,62.54,South
+360,Carrier_360,Standard,Flatbed,451,77.63,Southwest
+361,Carrier_361,Standard,Dry Van,102,81.71,Midwest
+362,Carrier_362,Standard,Dry Van,838,86.8,West
+363,Carrier_363,High-Risk,Dry Van,971,70.61,Northeast
+364,Carrier_364,Standard,Dry Van,613,81.12,Northeast
+365,Carrier_365,Standard,Reefer,980,77.92,South
+366,Carrier_366,Standard,Reefer,87,75.64,Northeast
+367,Carrier_367,High-Risk,Dry Van,639,66.48,West
+368,Carrier_368,Standard,Dry Van,454,86.41,West
+369,Carrier_369,Standard,Reefer,291,85.22,Midwest
+370,Carrier_370,Standard,Flatbed,325,80.72,South
+371,Carrier_371,Standard,Dry Van,554,83.33,Midwest
+372,Carrier_372,High-Risk,Dry Van,648,66.11,Northeast
+373,Carrier_373,High-Risk,Dry Van,180,68.11,Midwest
+374,Carrier_374,Preferred,Dry Van,622,95.18,Northeast
+375,Carrier_375,High-Risk,Dry Van,928,69.53,Northeast
+376,Carrier_376,Standard,Dry Van,30,82.11,Northeast
+377,Carrier_377,Standard,Reefer,880,88.17,Northeast
+378,Carrier_378,Standard,Dry Van,615,80.99,Midwest
+379,Carrier_379,Standard,Dry Van,355,75.22,Midwest
+380,Carrier_380,Standard,Dry Van,740,78.31,West
+381,Carrier_381,High-Risk,Flatbed,625,67.01,Midwest
+382,Carrier_382,Standard,Dry Van,773,82.57,Northeast
+383,Carrier_383,High-Risk,Dry Van,99,67.73,Northeast
+384,Carrier_384,High-Risk,Dry Van,77,70.0,West
+385,Carrier_385,Standard,Reefer,649,78.85,Southwest
+386,Carrier_386,Standard,Flatbed,317,84.31,South
+387,Carrier_387,Standard,Dry Van,253,84.86,South
+388,Carrier_388,Standard,Dry Van,432,80.76,South
+389,Carrier_389,Standard,Dry Van,730,80.63,South
+390,Carrier_390,Standard,Reefer,196,77.5,South
+391,Carrier_391,Standard,Flatbed,973,80.8,Midwest
+392,Carrier_392,Standard,Dry Van,432,86.02,West
+393,Carrier_393,Standard,Dry Van,167,87.73,West
+394,Carrier_394,High-Risk,Reefer,89,68.31,Southwest
+395,Carrier_395,High-Risk,Reefer,860,64.19,South
+396,Carrier_396,Standard,Dry Van,130,84.55,Midwest
+397,Carrier_397,High-Risk,Dry Van,430,70.36,South
+398,Carrier_398,High-Risk,Dry Van,675,64.65,Northeast
+399,Carrier_399,Standard,Reefer,522,86.57,South
+400,Carrier_400,Standard,Reefer,277,76.03,South
+401,Carrier_401,Standard,Reefer,125,75.15,Midwest
+402,Carrier_402,Standard,Reefer,717,76.72,Northeast
+403,Carrier_403,Standard,Dry Van,500,77.18,West
+404,Carrier_404,Standard,Dry Van,67,87.31,Southwest
+405,Carrier_405,Preferred,Dry Van,197,94.25,Southwest
+406,Carrier_406,Preferred,Flatbed,571,92.75,Northeast
+407,Carrier_407,Preferred,Dry Van,185,94.29,Northeast
+408,Carrier_408,Preferred,Dry Van,403,93.95,Southwest
+409,Carrier_409,Standard,Dry Van,142,79.22,Southwest
+410,Carrier_410,Standard,Reefer,801,76.93,Midwest
+411,Carrier_411,Standard,Reefer,637,84.18,South
+412,Carrier_412,Standard,Reefer,788,76.91,Midwest
+413,Carrier_413,High-Risk,Dry Van,71,70.86,Midwest
+414,Carrier_414,High-Risk,Flatbed,388,62.82,Southwest
+415,Carrier_415,Standard,Reefer,282,85.24,Midwest
+416,Carrier_416,Standard,Reefer,630,86.28,Northeast
+417,Carrier_417,Standard,Reefer,825,76.75,West
+418,Carrier_418,Standard,Flatbed,242,76.21,West
+419,Carrier_419,Standard,Flatbed,774,88.29,South
+420,Carrier_420,Standard,Dry Van,588,81.48,Northeast
+421,Carrier_421,Standard,Dry Van,827,83.82,Northeast
+422,Carrier_422,Standard,Dry Van,99,75.33,Southwest
+423,Carrier_423,Standard,Reefer,991,78.9,Midwest
+424,Carrier_424,Preferred,Reefer,445,95.05,Midwest
+425,Carrier_425,Standard,Dry Van,294,87.41,Southwest
+426,Carrier_426,Standard,Dry Van,199,78.8,Northeast
+427,Carrier_427,Standard,Flatbed,985,85.85,South
+428,Carrier_428,High-Risk,Flatbed,885,69.27,Southwest
+429,Carrier_429,High-Risk,Flatbed,148,61.61,Midwest
+430,Carrier_430,Standard,Dry Van,456,79.11,Northeast
+431,Carrier_431,Standard,Reefer,738,78.33,West
+432,Carrier_432,Standard,Reefer,598,81.2,Northeast
+433,Carrier_433,High-Risk,Dry Van,205,68.89,West
+434,Carrier_434,Standard,Dry Van,373,81.07,West
+435,Carrier_435,High-Risk,Flatbed,380,63.42,Southwest
+436,Carrier_436,Preferred,Dry Van,302,96.96,Midwest
+437,Carrier_437,Standard,Dry Van,961,83.18,South
+438,Carrier_438,Standard,Reefer,218,82.27,Southwest
+439,Carrier_439,Standard,Reefer,712,82.76,Midwest
+440,Carrier_440,Standard,Dry Van,913,78.11,West
+441,Carrier_441,Standard,Reefer,798,84.53,Northeast
+442,Carrier_442,Preferred,Dry Van,803,93.88,West
+443,Carrier_443,High-Risk,Reefer,175,65.09,Midwest
+444,Carrier_444,Standard,Dry Van,150,77.1,South
+445,Carrier_445,Standard,Reefer,787,83.36,West
+446,Carrier_446,Standard,Reefer,751,83.44,Northeast
+447,Carrier_447,Standard,Dry Van,747,79.76,West
+448,Carrier_448,Standard,Dry Van,430,87.04,Southwest
+449,Carrier_449,Preferred,Reefer,532,98.45,Midwest
+450,Carrier_450,Standard,Dry Van,35,76.53,Northeast
+451,Carrier_451,High-Risk,Dry Van,305,69.73,Midwest
+452,Carrier_452,Standard,Dry Van,537,80.51,Midwest
+453,Carrier_453,Preferred,Flatbed,143,100.0,Midwest
+454,Carrier_454,Preferred,Dry Van,147,92.25,South
+455,Carrier_455,Preferred,Dry Van,64,92.81,West
+456,Carrier_456,Preferred,Flatbed,225,94.42,South
+457,Carrier_457,High-Risk,Dry Van,993,63.76,Midwest
+458,Carrier_458,Standard,Dry Van,702,84.69,Midwest
+459,Carrier_459,Standard,Dry Van,949,81.73,West
+460,Carrier_460,Standard,Dry Van,271,78.09,West
+461,Carrier_461,Standard,Dry Van,606,82.09,Southwest
+462,Carrier_462,High-Risk,Reefer,894,72.44,West
+463,Carrier_463,Standard,Dry Van,364,86.09,West
+464,Carrier_464,Standard,Reefer,664,81.98,Southwest
+465,Carrier_465,Standard,Dry Van,698,79.04,South
+466,Carrier_466,Standard,Dry Van,835,77.52,South
+467,Carrier_467,Standard,Dry Van,970,87.3,Midwest
+468,Carrier_468,Standard,Dry Van,622,84.94,Midwest
+469,Carrier_469,Standard,Reefer,590,83.01,West
+470,Carrier_470,Standard,Dry Van,871,87.31,Northeast
+471,Carrier_471,High-Risk,Dry Van,690,61.7,Northeast
+472,Carrier_472,High-Risk,Dry Van,374,69.55,West
+473,Carrier_473,Standard,Reefer,637,78.03,Southwest
+474,Carrier_474,High-Risk,Dry Van,558,61.69,South
+475,Carrier_475,Standard,Reefer,244,81.52,South
+476,Carrier_476,Standard,Dry Van,525,80.42,Midwest
+477,Carrier_477,Standard,Dry Van,631,88.18,Midwest
+478,Carrier_478,Standard,Reefer,905,79.54,Northeast
+479,Carrier_479,Standard,Dry Van,588,86.41,Midwest
+480,Carrier_480,Standard,Dry Van,181,85.48,Southwest
+481,Carrier_481,Standard,Flatbed,987,84.35,West
+482,Carrier_482,High-Risk,Dry Van,586,72.89,Southwest
+483,Carrier_483,Preferred,Dry Van,301,94.08,West
+484,Carrier_484,Standard,Dry Van,759,80.46,Southwest
+485,Carrier_485,Standard,Dry Van,397,77.25,South
+486,Carrier_486,Standard,Reefer,382,78.86,Northeast
+487,Carrier_487,Standard,Dry Van,842,87.32,Northeast
+488,Carrier_488,Standard,Flatbed,870,81.64,Southwest
+489,Carrier_489,Standard,Reefer,533,79.78,West
+490,Carrier_490,Preferred,Flatbed,385,92.16,South
+491,Carrier_491,Standard,Reefer,866,81.79,Southwest
+492,Carrier_492,Standard,Flatbed,189,85.03,South
+493,Carrier_493,Standard,Reefer,752,79.01,Midwest
+494,Carrier_494,Standard,Dry Van,592,85.61,South
+495,Carrier_495,High-Risk,Dry Van,856,68.82,Northeast
+496,Carrier_496,Preferred,Reefer,432,97.88,South
+497,Carrier_497,Standard,Dry Van,835,78.51,South
+498,Carrier_498,Standard,Reefer,34,83.83,Midwest
+499,Carrier_499,Standard,Dry Van,763,77.15,Northeast
+500,Carrier_500,Standard,Reefer,88,80.09,South
