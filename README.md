@@ -1,7 +1,7 @@
 Freight Brokerage Operations Analytics
 Overview
 
-This project simulates a freight brokerage analytics environment similar to those used by third-party logistics (3PL) companies such as Total Quality Logistics (TQL). A dimensional data warehouse was designed in MySQL and used to analyze revenue, profitability, shipment performance, and broker productivity across 100,000 freight shipments.
+This project simulates a freight brokerage analytics environment similar to those used by third-party logistics (3PL). A dimensional data warehouse was designed in MySQL and used to analyze revenue, profitability, shipment performance, and broker productivity across 100,000 freight shipments.
 
 The project demonstrates SQL, data modeling, and Power BI skills commonly required for Data Analyst and Business Analyst roles.
 
